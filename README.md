@@ -1,6 +1,6 @@
 # Legibility App
 
-Legibility App is an old quick-n-dirty prototype by @viljamis for user interface designers for evaluating typeface legibility under different viewing conditions. Some features might not work in all browsers anymore.
+Legibility App is an old quick-n-dirty prototype by @arielsalminen for user interface designers for evaluating typeface legibility under different viewing conditions. Some features might not work in all browsers anymore.
 
 ## Usage:
 

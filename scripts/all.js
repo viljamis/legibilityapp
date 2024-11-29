@@ -17,7 +17,7 @@
  *   console.log("webGL supported!");
  * }
  *
- * Author: @viljamis, https://viljamis.com
+ * Author: @arielle, https://arie.ls
  */
 
 /* globals DocumentTouch */
